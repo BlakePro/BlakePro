@@ -1,6 +1,6 @@
 ### Hi there, welcome to my github 👋
 
-<h4 align="left">Languages and tools used in my projects</h4>
+<h4 align="left">Some languages and tools used in my projects</h4>
 <p style='background-color: #F4F4F4;padding:8px;border-radius:8px'>
   <img src="arduino.svg" alt="arduino" width="40" height="40"/>
   <img src="azure.svg" alt="azure" width="40" height="40" />
