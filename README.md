@@ -1,4 +1,4 @@
-### Hi there, welcome to my github 👋
+### Hello!, welcome to my profile 👋
 
 <h4 align="left">Some languages and tools used in my projects</h4>
 <p style='background-color: #F4F4F4;padding:8px;border-radius:8px'>
