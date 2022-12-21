@@ -45,4 +45,4 @@
   <img src="nextjs.svg" alt="nextjs" width="40" height="40"/
   <img src="bash.svg" alt="bash" width="40" height="40"/>
 </p>
-![](https://github-readme-stats.vercel.app/api?username=BlakePro&border_radius=6&theme=buefy&show_icons=false?count_private=true)
+[![BlakePro's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlakePro)](https://github.com/BlakePro/github-readme-stats)
