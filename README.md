@@ -46,4 +46,4 @@
   <img src="bash.svg" alt="bash" width="40" height="40"/>
 </p>
 <br/>
-![BlakePro's github stats](https://github-readme-stats.vercel.app/api?username=BlakePro&theme=light&show_icons=false?count_private=true)
+![BlakePro`s github stats](https://github-readme-stats.vercel.app/api?username=BlakePro&theme=light&show_icons=false?count_private=true)
