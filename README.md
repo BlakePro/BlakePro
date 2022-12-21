@@ -1,6 +1,8 @@
-### Hello!, welcome to my profile 👋
+### Hello!, I'm a FullStack Developer
 
-<h4 align="left">Some languages and tools used in my projects</h4>
+### Welcome to my profile 👋
+
+<h4 align="left">Some languages and tools that I use in my projects</h4>
 <p style='background-color: #F4F4F4;padding:8px;border-radius:8px'>
   <img src="arduino.svg" alt="arduino" width="40" height="40"/>
   <img src="azure.svg" alt="azure" width="40" height="40" />
@@ -43,3 +45,5 @@
   <img src="nextjs.svg" alt="nextjs" width="40" height="40"/
   <img src="bash.svg" alt="bash" width="40" height="40"/>
 </p>
+<br/>
+![BlakePro's github stats](https://github-readme-stats.vercel.app/api?username=BlakePro&theme=light&show_icons=false?count_private=true)
