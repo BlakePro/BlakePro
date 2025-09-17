@@ -2,7 +2,7 @@
 
 ### Welcome to my profile 👋
 
-<h4 align="left">Some languages and tools that I use in my projects</h4>
+<h4 align="left">Some of languages and tools I use in my projects</h4>
 <p style='background-color: #F4F4F4;padding:8px;border-radius:8px'>
   <img src="arduino.svg" alt="arduino" width="40" height="40"/>
   <img src="azure.svg" alt="azure" width="40" height="40" />
